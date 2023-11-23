@@ -130,11 +130,16 @@ run the program
 
 
 # Output:
-![Alt text](tanjavur.jpg)
-![Alt text](<WhatsApp Image 2023-11-23 at 09.47.23_df1da529.jpg>)
-![Alt text](iii.jpg)
-![Alt text](<WhatsApp Image 2023-11-23 at 09.46.31_2f699ca6.jpg>)
-![Alt text](<WhatsApp Image 2023-11-23 at 09.46.50_03ccb448.jpg>)
-![Alt text](<WhatsApp Image 2023-11-23 at 09.46.11_07e09546.jpg>)
+![tanjavur](https://github.com/PREM3112/Ex-04-webTech_imagemap/assets/145449383/f09a5983-1793-4d79-b110-1168fd57ec88)
+![iii](https://github.com/PREM3112/Ex-04-webTech_imagemap/assets/145449383/6d2cc100-fc52-4fce-94ed-5677e5e8e56d)
+![WhatsApp Image 2023-11-23 at 09 46 31_2f699ca6](https://github.com/PREM3112/Ex-04-webTech_imagemap/assets/145449383/33560d1c-5ba5-4a15-815c-df3c1d888375)
+![WhatsApp Image 2023-11-23 at 09 46 50_03ccb448](https://github.com/PREM3112/Ex-04-webTech_imagemap/assets/145449383/ba985b1b-8fca-4abc-8f60-2115cae6a15c)
+![WhatsApp Image 2023-11-23 at 09 47 23_df1da529](https://github.com/PREM3112/Ex-04-webTech_imagemap/assets/145449383/3cc54f04-bb40-4ca1-8efb-e50fddffc252)
+![WhatsApp Image 2023-11-23 at 09 46 11_07e09546](https://github.com/PREM3112/Ex-04-webTech_imagemap/assets/145449383/5cd9288a-bcf3-4320-bc7d-25950d7cac77)
+
+
+
+
+
 # Result:
 thus the output got successfully.
