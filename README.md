@@ -24,6 +24,7 @@ run the program
   <area shape="rect" coords="192,586,321,670" href="file:///C:/Users/admin/Desktop/tanjavur%20images/index.html/mainenterence.html" alt="THANJAI MAINRNTERENCE">
 </map>
 ```
+```
 <BODY>
     <h1>
         THANJAI GOPURAM - Thanjavur, Tamil Nadu
@@ -38,6 +39,7 @@ run the program
            splendor, leaving an indelible mark on those who behold its grandeur.
     </p>
 </BODY>
+```
 ```
 <!DOCTYPE html>
 <html>
@@ -58,6 +60,7 @@ run the program
     </p>
 </BODY>
 ```
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -77,6 +80,7 @@ run the program
           connection between worshipper and deity at this ancient marvel.
     </p>
 </BODY>
+```
 ```
 <!DOCTYPE html>
 <html>
@@ -101,6 +105,7 @@ run the program
     </p>
 </BODY>
 ```
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -120,6 +125,7 @@ run the program
            significance of this divine enclave within the magnificent tapestry of the Big Temple.
     </p>
 </BODY>
+```
 ```
 
 
