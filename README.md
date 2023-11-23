@@ -126,7 +126,6 @@ run the program
     </p>
 </BODY>
 ```
-```
 
 
 # Output:
